@@ -1,2 +1,2 @@
-# SECContract
+# SEC Contract
 BSC SafeEvolveCrypto Contract
